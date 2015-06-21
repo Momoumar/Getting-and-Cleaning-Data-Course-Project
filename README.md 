@@ -1,5 +1,5 @@
 
-#ReadMe
+# ReadMe
 
 run_analysis.R script purpose is to make a tidy data set of the Human Activity Recognition Using Smartphones Dataset.
 The script was written in R.
